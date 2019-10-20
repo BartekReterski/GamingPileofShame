@@ -1,6 +1,7 @@
 # GamingPileofShame
 
 Manage your gaming backlog
+https://play.google.com/store/apps/details?id=com.gamesdatabase.gamerspileofshame
 
 ![Image of Yaktocat](1.png)
 ![Image of Yaktocat](2.png)
