@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Gaming Pile of Shame</string>
+    <string name="emajl">br.programmer@yahoo.com</string>
+    <string name="Inputgame">Input game title </string>
+
+
+    <string name="credits">
+        <b> Used graphics:\n</b>
+1.	<a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by Harryarts - www.freepik.com\n</a>
+2.                                                      Icon made by [Freepik] from www.flaticon.com\n
+3.	                                                    Icon made by [Becris] from www.flaticon.com\n
+4.	                                                    Icon made by [itim2101] from www.flaticon.com\n
+5.                                                      Icon made by [Freepik] from www.flaticon.com\n
+6.	                                                    Icon made by [Pixel perfect] from www.flaticon.com\n
+7.	<a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by macrovector - www.freepik.com\n</a>
+8.                                                       Icon made by [Freepik] from www.flaticon.com\n
+
+
+
+    </string>
+</resources>

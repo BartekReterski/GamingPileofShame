@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+
+    <item
+        android:id="@+id/pile_of_victory"
+        android:orderInCategory="300"
+        android:title="Finished games"
+        android:icon="@drawable/finished"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/sort_informations"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/sort"
+        android:title="Sort">
+        <menu>
+            <item
+                android:id="@+id/ascending"
+                android:icon="@drawable/alphabetical"
+                android:title="Sort by title(ascending)"/>
+
+            <item
+                android:id="@+id/descending"
+                android:icon="@drawable/alphabetical"
+                android:title="Sort by title(descending)"/>
+
+
+
+            <item
+                android:icon="@drawable/scoremain"
+                android:id="@+id/metascore"
+                android:title="Sort by metascore"/>
+
+            <item
+                android:icon="@drawable/console"
+                android:id="@+id/yourrating"
+                android:title="Sort by your rating"/>
+
+        </menu>
+    </item>
+
+
+</menu>
